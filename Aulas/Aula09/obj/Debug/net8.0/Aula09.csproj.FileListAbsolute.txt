@@ -1,0 +1,15 @@
+C:\Users\Central Midia\Downloads\MeusProjetos\EstudoDeCSharp\Aulas\Aula09\obj\Debug\net8.0\Aula09.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Central Midia\Downloads\MeusProjetos\EstudoDeCSharp\Aulas\Aula09\obj\Debug\net8.0\Aula09.AssemblyInfoInputs.cache
+C:\Users\Central Midia\Downloads\MeusProjetos\EstudoDeCSharp\Aulas\Aula09\obj\Debug\net8.0\Aula09.AssemblyInfo.cs
+C:\Users\Central Midia\Downloads\MeusProjetos\EstudoDeCSharp\Aulas\Aula09\obj\Debug\net8.0\Aula09.csproj.CoreCompileInputs.cache
+C:\Users\Central Midia\Downloads\MeusProjetos\EstudoDeCSharp\Aulas\Aula09\obj\Debug\net8.0\Aula09.sourcelink.json
+C:\Users\Central Midia\Downloads\MeusProjetos\EstudoDeCSharp\Aulas\Aula09\bin\Debug\net8.0\Aula09.exe
+C:\Users\Central Midia\Downloads\MeusProjetos\EstudoDeCSharp\Aulas\Aula09\bin\Debug\net8.0\Aula09.deps.json
+C:\Users\Central Midia\Downloads\MeusProjetos\EstudoDeCSharp\Aulas\Aula09\bin\Debug\net8.0\Aula09.runtimeconfig.json
+C:\Users\Central Midia\Downloads\MeusProjetos\EstudoDeCSharp\Aulas\Aula09\bin\Debug\net8.0\Aula09.dll
+C:\Users\Central Midia\Downloads\MeusProjetos\EstudoDeCSharp\Aulas\Aula09\bin\Debug\net8.0\Aula09.pdb
+C:\Users\Central Midia\Downloads\MeusProjetos\EstudoDeCSharp\Aulas\Aula09\obj\Debug\net8.0\Aula09.dll
+C:\Users\Central Midia\Downloads\MeusProjetos\EstudoDeCSharp\Aulas\Aula09\obj\Debug\net8.0\refint\Aula09.dll
+C:\Users\Central Midia\Downloads\MeusProjetos\EstudoDeCSharp\Aulas\Aula09\obj\Debug\net8.0\Aula09.pdb
+C:\Users\Central Midia\Downloads\MeusProjetos\EstudoDeCSharp\Aulas\Aula09\obj\Debug\net8.0\Aula09.genruntimeconfig.cache
+C:\Users\Central Midia\Downloads\MeusProjetos\EstudoDeCSharp\Aulas\Aula09\obj\Debug\net8.0\ref\Aula09.dll
