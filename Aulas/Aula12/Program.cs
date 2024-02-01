@@ -12,7 +12,7 @@ class Program{
         for(int i = 0;i<QUANTIDADE_NOTAS;i++){
             Console.Write($"Nota {i + 1}: ");
             notasDoEstudante[i] = float.Parse(Console.ReadLine());
-            somadorDeNotas = notasDoEstudante[i];
+            somadorDeNotas += notasDoEstudante[i];
         }
 
         media = somadorDeNotas / QUANTIDADE_NOTAS;
@@ -21,7 +21,7 @@ class Program{
             resultado = "Passou";
         }
 
-        Console.WriteLine($"Status do Aluno: {resultado}");
+        Console.WriteLine($"Média: {media.ToString("F2")} | Status do Aluno: {resultado}");
 
     }
 }
