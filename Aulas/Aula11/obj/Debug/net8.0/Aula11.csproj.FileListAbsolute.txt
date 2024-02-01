@@ -1,0 +1,15 @@
+C:\Users\Central Midia\Downloads\MeusProjetos\EstudoDeCSharp\Aulas\Aula11\bin\Debug\net8.0\Aula11.exe
+C:\Users\Central Midia\Downloads\MeusProjetos\EstudoDeCSharp\Aulas\Aula11\bin\Debug\net8.0\Aula11.deps.json
+C:\Users\Central Midia\Downloads\MeusProjetos\EstudoDeCSharp\Aulas\Aula11\bin\Debug\net8.0\Aula11.runtimeconfig.json
+C:\Users\Central Midia\Downloads\MeusProjetos\EstudoDeCSharp\Aulas\Aula11\bin\Debug\net8.0\Aula11.dll
+C:\Users\Central Midia\Downloads\MeusProjetos\EstudoDeCSharp\Aulas\Aula11\bin\Debug\net8.0\Aula11.pdb
+C:\Users\Central Midia\Downloads\MeusProjetos\EstudoDeCSharp\Aulas\Aula11\obj\Debug\net8.0\Aula11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Central Midia\Downloads\MeusProjetos\EstudoDeCSharp\Aulas\Aula11\obj\Debug\net8.0\Aula11.AssemblyInfoInputs.cache
+C:\Users\Central Midia\Downloads\MeusProjetos\EstudoDeCSharp\Aulas\Aula11\obj\Debug\net8.0\Aula11.AssemblyInfo.cs
+C:\Users\Central Midia\Downloads\MeusProjetos\EstudoDeCSharp\Aulas\Aula11\obj\Debug\net8.0\Aula11.csproj.CoreCompileInputs.cache
+C:\Users\Central Midia\Downloads\MeusProjetos\EstudoDeCSharp\Aulas\Aula11\obj\Debug\net8.0\Aula11.sourcelink.json
+C:\Users\Central Midia\Downloads\MeusProjetos\EstudoDeCSharp\Aulas\Aula11\obj\Debug\net8.0\Aula11.dll
+C:\Users\Central Midia\Downloads\MeusProjetos\EstudoDeCSharp\Aulas\Aula11\obj\Debug\net8.0\refint\Aula11.dll
+C:\Users\Central Midia\Downloads\MeusProjetos\EstudoDeCSharp\Aulas\Aula11\obj\Debug\net8.0\Aula11.pdb
+C:\Users\Central Midia\Downloads\MeusProjetos\EstudoDeCSharp\Aulas\Aula11\obj\Debug\net8.0\Aula11.genruntimeconfig.cache
+C:\Users\Central Midia\Downloads\MeusProjetos\EstudoDeCSharp\Aulas\Aula11\obj\Debug\net8.0\ref\Aula11.dll
